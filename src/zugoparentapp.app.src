@@ -5,7 +5,8 @@
   {mod, {'zugoparentapp_app', []}},
   {applications,
    [kernel,
-    stdlib
+    stdlib,
+    zugotestapp
    ]},
   {env,[]},
   {modules, []},
